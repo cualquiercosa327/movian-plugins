@@ -1,0 +1,14 @@
+{
+	"description": "<p>Popcorn Time (based on code from eztvapi)",
+	"author": "esc0rtd3w",
+	"homepage": "https://github.com/esc0rtd3w/movian-plugins",
+	"title": "Popcorn Time",
+	"synopsis": "Watch Movies and TV Shows Using PopcornTime API (based on code from eztvapi)",
+	"version": "0.0.1",
+        "file": "popcorntime.js",
+	"showtimeVersion": "5.0.417",
+	"type": "ecmascript",
+	"id": "Popcorn Time",
+	"icon": "logo.png",
+	"category": "video"
+}
